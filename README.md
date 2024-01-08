@@ -11,7 +11,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 
 ## Oculus Helpers
 - Input
-  - [https://gist.github.com/t-34400/d16a05d0e3c53d8286f1e7846bdb9b04]:
+  - [Button Pressed Event](https://gist.github.com/t-34400/d16a05d0e3c53d8286f1e7846bdb9b04):
     These Unity scripts allow you to publish Oculus Quest button input events as ScriptableObject events.
 
 ## Other Useful Gists
