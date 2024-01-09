@@ -16,3 +16,8 @@ This repository contains a collection of Gists related to Unity, addressing vari
 
 ## Other Useful Gists
 
+## Other Langage Gists
+- [Unity-gists](https://github.com/t-34400/Unity-gists)
+- [Android-gists](https://github.com/t-34400/Android-gists)
+- [Python-gists](https://github.com/t-34400/Python-gists)
+
