@@ -7,6 +7,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Meta SDK Helpers](#meta-sdk-helpers)
 - [Packages](#packages)
   - [Meta SDK](#meta-sdk)
+- [Repositories](#repositories)
 - [Other Useful Gists](#other-useful-gists)
 - [Other Language Gists](#other-language-gists)
 
@@ -29,6 +30,10 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ### Meta SDK
 - UI
   - [Unity Meta Quest Canvas Basis Prefab](./UnityPackages/Meta/MetaQuestCanvasBasis/)
+
+## Repositories
+- [UnityOSCReceiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
+- [Simple Unity 3D WebView for Android](https://github.com/t-34400/SimpleUnity3DWebView): Simple Unity 3D WebView is a straightforward 3D WebView library designed for the Android platform, enabling seamless integration of web content within Unity projects.
 
 ## Other Useful Gists
 
