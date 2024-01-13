@@ -7,6 +7,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Meta SDK Helpers](#meta-sdk-helpers)
 - [Packages](#packages)
   - [Meta SDK](#meta-sdk)
+  - [Windows](#windows)
 - [Repositories](#repositories)
 - [Other Useful Gists](#other-useful-gists)
 - [Other Language Gists](#other-language-gists)
@@ -39,6 +40,10 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Meta Scene selector Prefab](./UnityPackages/Meta/MetaSceneSelector)
   - [Dynamic Toggle Group](./UnityPackages/Meta/DynamicToggleGroup/)
   - To use these prefabs, you need to import the Meta Interaction SDK and add the Pointable Canvas Module to your scene.
+
+### Windows
+- UI:
+  - [Unity Windows File Selection Dialog Sample](https://github.com/t-34400/Unity-gists/tree/main/UnityPackages/Windows/FilePicker): This Unity package provides a functionality to use the Windows.Forms.dll library to display a file selection dialog in a Unity application targeting the Windows platform.
 
 ## Repositories
 - [UnityOSCReceiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
