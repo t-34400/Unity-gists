@@ -28,11 +28,13 @@ This repository contains a collection of Gists related to Unity, addressing vari
 - UI
   - [Unity Dynamic Toggle Group Basis](./UnityPackages/UI/DynamicToggleGroupBasis/)
   - [Unity Scene Selector Prefab](./UnityPackaged/UI/SceneSelector/)
+
 ### Meta SDK
-- UI
+- UI:
   - [Unity Meta Quest Canvas Basis Prefab](./UnityPackages/Meta/MetaQuestCanvasBasis/)
   - [Meta Scene selector Prefab](./UnityPackages/Meta/MetaSceneSelector)
   - [Dynamic Toggle Group](./UnityPackages/Meta/DynamicToggleGroup/)
+  - To use these prefabs, you need to import the Meta Interaction SDK and add the Pointable Canvas Module to your scene.
 
 ## Repositories
 - [UnityOSCReceiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
