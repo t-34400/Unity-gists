@@ -12,6 +12,8 @@ This repository contains a collection of Gists related to Unity, addressing vari
 - [Other Language Gists](#other-language-gists)
 
 ## Gists List
+- Utility
+  - [Transform Searcher](https://gist.github.com/t-34400/9371523d896beb6388bdd49e107fc32a): A method for searching for a child transform by name from a parent transform in Unity.
 - UI
   - [Enum Toggle Group](https://gist.github.com/t-34400/6787c65f87d4b272f1ce1fc93f66d782):
     `EnumToggleGroup` is a Unity component designed to manage a group of UI Toggles representing an enum.
