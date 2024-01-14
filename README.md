@@ -48,6 +48,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ## Repositories
 - [UnityOSCReceiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
 - [Simple Unity 3D WebView for Android](https://github.com/t-34400/SimpleUnity3DWebView): Simple Unity 3D WebView is a straightforward 3D WebView library designed for the Android platform, enabling seamless integration of web content within Unity projects.
+- [UnityBluetoothSenderPlugin](https://github.com/t-34400/UnityBluetoothSenderPlugin): Android plugin and implementation sample package for Bluetooth transmission from Unity.
 
 ## Other Useful Gists
 
