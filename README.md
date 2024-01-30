@@ -50,6 +50,9 @@ This repository contains a collection of Gists related to Unity, addressing vari
 - [Simple Unity 3D WebView for Android](https://github.com/t-34400/SimpleUnity3DWebView): Simple Unity 3D WebView is a straightforward 3D WebView library designed for the Android platform, enabling seamless integration of web content within Unity projects.
 - [UnityBluetoothSenderPlugin](https://github.com/t-34400/UnityBluetoothSenderPlugin): Android plugin and implementation sample package for Bluetooth transmission from Unity.
 
+## Memos
+- [Unity Render Streaming Package Installation Memo](https://gist.github.com/t-34400/843d83147b4d7b7b4c617efd8e4c4359)
+
 ## Other Useful Gists
 
 ## Other Language Gists
