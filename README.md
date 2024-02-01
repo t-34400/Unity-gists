@@ -4,7 +4,6 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ## Contents
 - [Contents](#contents)
 - [Gists List](#gists-list)
-  - [Basics](#basics)
   - [Meta SDK Helpers](#meta-sdk-helpers)
 - [Packages](#packages)
   - [Meta SDK](#meta-sdk)
@@ -24,10 +23,6 @@ This repository contains a collection of Gists related to Unity, addressing vari
 - Animation
   - [Humanoid Pose Synchronizer & Mirroring Component](https://gist.github.com/t-34400/fa28b8f56746322a0310519572779791):
     These Unity scripts provide a component for copying or flipping Humanoid poses in Unity.
-
-### Basics
-- Editor
-  - [Scene GUI for ScriptableObject](https://gist.github.com/t-34400/1aeb7c3a3210a87b8ab664e5a856204b)
 
 ### Meta SDK Helpers
 - Input
@@ -57,6 +52,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 
 ## Memos
 - [Unity Render Streaming Package Installation Memo](https://gist.github.com/t-34400/843d83147b4d7b7b4c617efd8e4c4359)
+- [Scene GUI for ScriptableObject](https://gist.github.com/t-34400/1aeb7c3a3210a87b8ab664e5a856204b)
 
 ## Other Useful Gists
 
