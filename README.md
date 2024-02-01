@@ -24,6 +24,10 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Humanoid Pose Synchronizer & Mirroring Component](https://gist.github.com/t-34400/fa28b8f56746322a0310519572779791):
     These Unity scripts provide a component for copying or flipping Humanoid poses in Unity.
 
+### Basics
+- Editor
+  - [Scene GUI for ScriptableObject](https://gist.github.com/t-34400/1aeb7c3a3210a87b8ab664e5a856204b)
+
 ### Meta SDK Helpers
 - Input
   - [Button Pressed Event](https://gist.github.com/t-34400/d16a05d0e3c53d8286f1e7846bdb9b04):
