@@ -4,6 +4,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ## Contents
 - [Contents](#contents)
 - [Gists List](#gists-list)
+  - [Basics](#basics)
   - [Meta SDK Helpers](#meta-sdk-helpers)
 - [Packages](#packages)
   - [Meta SDK](#meta-sdk)
