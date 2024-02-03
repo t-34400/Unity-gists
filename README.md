@@ -46,9 +46,10 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Unity Windows File Selection Dialog Sample](https://github.com/t-34400/Unity-gists/tree/main/UnityPackages/Windows/FilePicker): This Unity package provides a functionality to use the Windows.Forms.dll library to display a file selection dialog in a Unity application targeting the Windows platform.
 
 ## Repositories
-- [UnityOSCReceiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
+- [Unity OSC Receiver](https://github.com/t-34400/UnityOSCReceiver): A Unity OSC receiver library and a sample implementation for handling VRChat OSC input.
 - [Simple Unity 3D WebView for Android](https://github.com/t-34400/SimpleUnity3DWebView): Simple Unity 3D WebView is a straightforward 3D WebView library designed for the Android platform, enabling seamless integration of web content within Unity projects.
-- [UnityBluetoothSenderPlugin](https://github.com/t-34400/UnityBluetoothSenderPlugin): Android plugin and implementation sample package for Bluetooth transmission from Unity.
+- [Unity Bluetooth Sender Plugin](https://github.com/t-34400/UnityBluetoothSenderPlugin): Android plugin and implementation sample package for Bluetooth transmission from Unity.
+- [Meta Quest Screenshot Loader](https://github.com/t-34400/MetaQuestScreenshotLoader)
 
 ## Memos
 - [Unity Render Streaming Package Installation Memo](https://gist.github.com/t-34400/843d83147b4d7b7b4c617efd8e4c4359)
