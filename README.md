@@ -14,7 +14,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 
 ## Gists List
 - Utility
-  - [Transform Searcher](https://gist.github.com/t-34400/9371523d896beb6388bdd49e107fc32a): A method for searching for a child transform by name from a parent transform in Unity.
+  - [Transform Utilities](https://gist.github.com/t-34400/9371523d896beb6388bdd49e107fc32a)
   - [Camera Look Rotation](https://gist.github.com/t-34400/8d0a937ccc867c6307705283d4d82425): The `CameraLookRotation` class provides a simple way to implement touch-based camera controls in Unity. 
 - UI
   - [Enum Toggle Group](https://gist.github.com/t-34400/6787c65f87d4b272f1ce1fc93f66d782):
