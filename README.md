@@ -23,6 +23,8 @@ This repository contains a collection of Gists related to Unity, addressing vari
 - Animation
   - [Humanoid Pose Synchronizer & Mirroring Component](https://gist.github.com/t-34400/fa28b8f56746322a0310519572779791):
     These Unity scripts provide a component for copying or flipping Humanoid poses in Unity.
+- Shader
+  - [Default shader with ZTest added](https://gist.github.com/t-34400/44e2cd9179b03de110a66fae9d9c469b)
 - Android Plugin
   - [Unity Android Plugin Basics](https://gist.github.com/t-34400/706ca33b7ae8e706640cec55f9abebd9)
   - [Window PixelCopy Plugin](https://gist.github.com/t-34400/bd54f3f7c7959abadcee45d1a63b0152)
