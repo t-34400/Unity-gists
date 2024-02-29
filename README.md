@@ -36,7 +36,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ## Packages
 - UI
   - [Unity Dynamic Toggle Group Basis](./UnityPackages/UI/DynamicToggleGroupBasis/)
-  - [Unity Scene Selector Prefab](./UnityPackaged/UI/SceneSelector/)
+  - [Unity Scene Selector Prefab](./UnityPackageｓ/UI/SceneSelector/)
 
 ### Meta SDK
 - UI:
