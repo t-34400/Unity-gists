@@ -15,7 +15,8 @@ This repository contains a collection of Gists related to Unity, addressing vari
 ## Gists List
 - Utility
   - [Transform Extensions](https://gist.github.com/t-34400/9371523d896beb6388bdd49e107fc32a)
-  - [Camera Look Rotation](https://gist.github.com/t-34400/8d0a937ccc867c6307705283d4d82425): The `CameraLookRotation` class provides a simple way to implement touch-based camera controls in Unity. 
+  - [Camera Look Rotation](https://gist.github.com/t-34400/8d0a937ccc867c6307705283d4d82425): The `CameraLookRotation` class provides a simple way to implement touch-based camera controls in Unity.
+  - [ADB Manager](https://gist.github.com/t-34400/44108b9da60004538c8c0832b21d90b0): A wrapper class for using adb commands from Unity to communicate with Android devices.
 - UI
   - [Enum Toggle Group](https://gist.github.com/t-34400/6787c65f87d4b272f1ce1fc93f66d782):
     `EnumToggleGroup` is a Unity component designed to manage a group of UI Toggles representing an enum.
