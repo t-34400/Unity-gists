@@ -18,6 +18,7 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Camera Look Rotation](https://gist.github.com/t-34400/8d0a937ccc867c6307705283d4d82425): The `CameraLookRotation` class provides a simple way to implement touch-based camera controls in Unity.
   - [Unity Authoring Tool App](https://gist.github.com/t-34400/a7e0290f000513972f88662cfd4c62f1): Set of utility classes for Unity authoring tool application.
   - [Prefab Thumbnail Generator](https://gist.github.com/t-34400/acbe156f1771fadad4a01bd0127c3549)
+  - [BoxRenderer](https://gist.github.com/t-34400/bb302b9ce0de1ae8ad408614a43abf0e)
   - [ADB Manager](https://gist.github.com/t-34400/44108b9da60004538c8c0832b21d90b0): A wrapper class for using adb commands from Unity to communicate with Android devices.
 - UI
   - [Enum Toggle Group](https://gist.github.com/t-34400/6787c65f87d4b272f1ce1fc93f66d782):
