@@ -20,11 +20,11 @@ This repository contains a collection of Gists related to Unity, addressing vari
   - [Prefab Thumbnail Generator](https://gist.github.com/t-34400/acbe156f1771fadad4a01bd0127c3549)
   - [BoxRenderer](https://gist.github.com/t-34400/bb302b9ce0de1ae8ad408614a43abf0e)
   - [ADB Manager](https://gist.github.com/t-34400/44108b9da60004538c8c0832b21d90b0): A wrapper class for using adb commands from Unity to communicate with Android devices.
+  - [SelectAssetAttribute](https://gist.github.com/t-34400/70f16439487ca6f23ad16d015a9f6d37): Custom attibute to show a drawer for setting asset path on inspector
 - UI
   - [Enum Toggle Group](https://gist.github.com/t-34400/6787c65f87d4b272f1ce1fc93f66d782):
     `EnumToggleGroup` is a Unity component designed to manage a group of UI Toggles representing an enum.
   - [Web Camera Display Controller](https://gist.github.com/t-34400/18107e2a124146245b2f31674cc8b5c6): The `WebCamDisplayController` class provides a simple way to access the webcam functionality in Unity.
-- Animation
   - [Humanoid Pose Synchronizer & Mirroring Component](https://gist.github.com/t-34400/fa28b8f56746322a0310519572779791):
     These Unity scripts provide a component for copying or flipping Humanoid poses in Unity.
 - Shader
